@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: Program correctly encrypted file
+Reason: None
+Timestamp: 2024-10-08 23:57:21.621002
+
+Status: PASSED!
+Check: 2
+Test: Program correctly copied file
+Reason: None
+Timestamp: 2024-10-08 23:57:21.636124

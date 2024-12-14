@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The program displays the correct metrics.
+Reason: The program displayed the correct metrics.None
+Timestamp: 2024-10-30 00:29:51.682573
+
+Status: PASSED!
+Check: 2
+Test: The program displays the correct metrics.
+Reason: The program displayed the correct metrics.None
+Timestamp: 2024-10-30 00:29:51.699785
