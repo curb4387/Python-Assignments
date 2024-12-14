@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: The `commandinterpreter` program displays a menu of commands.
+Reason: None
+Timestamp: 2024-11-12 05:13:06.304464
+
+Status: PASSED!
+Check: 2
+Test: The `commandinterpreter` program displays the selection for 2.
+Reason: None
+Timestamp: 2024-11-12 05:13:06.320459
+
+Status: PASSED!
+Check: 3
+Test: The `commandinterpreter` program displays the selection for 3 and 4.
+Reason: None
+Timestamp: 2024-11-12 05:13:06.336253

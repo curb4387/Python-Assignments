@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: The `newton(2)` method returns the square root of 2.
+Reason: None
+Timestamp: 2024-10-29 20:49:43.154065
+
+Status: PASSED!
+Check: 2
+Test: The `newton(4)` method returns the square root of 4.
+Reason: None
+Timestamp: 2024-10-29 20:49:43.154173
+
+Status: PASSED!
+Check: 3
+Test: The `newton(9)` method returns the square root of 9.
+Reason: None
+Timestamp: 2024-10-29 20:49:43.154250

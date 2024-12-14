@@ -1,0 +1,24 @@
+
+Status: PASSED!
+Check: 1
+Test: The newton.py program displays both the newton square root and the math square root of 2.
+Reason: None
+Timestamp: 2024-10-29 20:44:36.947119
+
+Status: PASSED!
+Check: 2
+Test: The newton.py program displays both the newton square root and the math square root of 4.
+Reason: None
+Timestamp: 2024-10-29 20:44:36.963576
+
+Status: PASSED!
+Check: 3
+Test: The newton.py program displays both the newton square root and the math square root of 9.
+Reason: None
+Timestamp: 2024-10-29 20:44:36.979571
+
+Status: PASSED!
+Check: 4
+Test: The newton.py program continues until the user pressed enter/return
+Reason: None
+Timestamp: 2024-10-29 20:44:36.995864
