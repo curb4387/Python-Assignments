@@ -21,3 +21,5 @@ TypeError: can only join an iterable
 Jack’s strategy does not appear to produce the expected result. Determine the cause of the error and correct it.
 
 ## Instructions
+
+**Task 1**: Modify **shuffle.py** to correct the error.
