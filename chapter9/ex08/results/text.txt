@@ -1,0 +1,3 @@
+hello this text file contains text.
+i need to put this in the gui.
+pythong. I'm saving this sentence in the text editor yaaay!
