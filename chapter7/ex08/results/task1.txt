@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The `myMap` method returns a list of squares for [1, 2, 3, 4, 5].
+Reason: None
+Timestamp: 2024-12-08 22:03:57.910695
+
+Status: PASSED!
+Check: 2
+Test: The `myMap` method returns a list of doubles for [1, 2, 3, 4, 5].
+Reason: None
+Timestamp: 2024-12-08 22:03:57.910837
