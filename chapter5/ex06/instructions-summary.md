@@ -13,3 +13,5 @@ Define a function `decimalToRep` in the file **convert.py** that returns the rep
     }
 }
 -->
+
+**Task 1**: Define the `decimalToRep` function.

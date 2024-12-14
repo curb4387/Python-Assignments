@@ -16,3 +16,5 @@ print(listOfWords)
 Jack’s strategy does not appear to produce the expected result. Determine the error and correct it.
 
 ## Instructions
+
+**Task 1**: Modify the **toUpper.py** program so it correctly converts words to uppercase.
