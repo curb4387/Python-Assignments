@@ -13,3 +13,5 @@ Convert Newton’s method for approximating square roots in _Programming Exercis
     }
 }
 -->
+
+**Task 1**: Define the recursive function `newton`.

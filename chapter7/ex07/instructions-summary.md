@@ -13,3 +13,5 @@ The grammar checker of _Case Study 6-1: Recognizing Sentences_ in Chapter 6 (in 
     }
 }
 -->
+
+**Task 1**: Modify the **recognizer.py** program to recognize an arbitrary number of independent clauses recursively.

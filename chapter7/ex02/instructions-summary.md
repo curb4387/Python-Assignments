@@ -13,3 +13,5 @@ Restructure Newton’s method (Case Study 3-2: Approximating Square Roots, Chapt
     }
 }
 -->
+
+**Task 1**: Implement a recursive strategy for the `newton` method that incorporates the `limitReached` and `improveEstimate` methods.

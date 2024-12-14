@@ -14,3 +14,14 @@ def printAll(seq):
 Write a script (in the file **testprintlist.py**) that tests this function and add code to trace the argument on each call. Does this function work as expected? If so, how does it works, and describe any hidden costs in running it. (LO: 7.1)
 
 ## Instructions
+
+**Task 1**: Implement the `printAll` function.
+
+Does this function work as expected? Do you see any hidden costs to running it?
+
+<details>
+  <summary>Answer</summary>
+  
+*Before each recursive call, the function creates a slice of its nonempty list argument.  The hidden cost is that each slice produces a copy of the list, less its first item.  This process requires time and memory.*
+
+</details>

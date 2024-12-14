@@ -25,3 +25,5 @@ def adjectivePhrase():
 When Jack tests the `nounPhrase` function, the PVM halts the program with a `RecursionError`. Determine why this error occurs and correct it.
 
 ## Instructions
+
+**Task 1**: Modify the `nounPhrase` function to fix the `RecursionError`.
