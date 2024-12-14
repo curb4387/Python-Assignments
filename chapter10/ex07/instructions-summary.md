@@ -26,3 +26,5 @@ A screen shot of a possible window is shown in Figure 10-7.
 -->
 
 ## Instructions
+
+**Task 1**: Roll dice test.

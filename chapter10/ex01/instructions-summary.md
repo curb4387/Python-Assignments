@@ -20,3 +20,9 @@ True: True
 (LO: 10.2)
 
 ## Instructions
+
+**Task 1**: Add a method to test for equality (`__eq__`).
+
+**Task 2**: Add method to test for less than (`__lt__`).
+
+**Task 3**: Add method to test for greater than or equal to (`__ge__`).

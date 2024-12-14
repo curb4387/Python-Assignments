@@ -15,3 +15,5 @@ Set the starting position (x-axis, y-axis) of the main window to **(0,0)** by us
 > Make sure to use the **turtle.done()** function as the last statement in your turtle graphics program.
 
 ## Instructions
+
+**Task 1**: Write a script that uses several instances of the different shape classes to draw a house and a stick figure.

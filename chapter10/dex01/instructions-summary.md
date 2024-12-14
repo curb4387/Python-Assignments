@@ -19,3 +19,5 @@ ZeroDivisionError: division by zero
 Explain the error detected during this test and prevent it from happening.
 
 ## Instructions
+
+**Task 1**: Modify the **student.py** program to remove the `ZeroDivisionError`.

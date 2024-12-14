@@ -29,3 +29,5 @@ Balance: 100.0
 ```
 
 ## Instructions
+
+**Task 1**: Modify `__str__` method to return accounts ordered by name.
