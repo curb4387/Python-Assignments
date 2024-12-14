@@ -4,4 +4,6 @@ For this exercise, write a program that contains an introductory docstring. This
 
 ## Instructions
 
-The tax calculator program of the case study outputs a floating-point number that might show more than two digits of precision.
+An object’s momentum is its mass multiplied by its velocity.
+
+**Task 1**: Write a program in the file **momentum.py** that accepts an object’s mass (in kilograms) and velocity (in meters per second) as inputs and then outputs its momentum. (LO: 2.3, 2.4)

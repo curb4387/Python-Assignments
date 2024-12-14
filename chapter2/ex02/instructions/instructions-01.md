@@ -1,1 +1,0 @@
-**Task 1**: Write a program in **cube.py** that takes the length of an edge (an integer) as input and prints the cube’s surface area as output. (LO: 2.4)

@@ -4,4 +4,6 @@ For this exercise, write a program that contains an introductory docstring. This
 
 ## Instructions
 
-You can calculate the surface area of a cube if you know the length of an edge.
+An employee’s total weekly pay equals the hourly wage multiplied by the total number of regular hours plus any overtime pay. Overtime pay equals the total overtime hours multiplied by 1.5 times the hourly wage.
+
+**Task 1**: Write a program in the file **employeepay.py** that takes as inputs the hourly wage, total regular hours, and total overtime hours and displays an employee’s total weekly pay. (LO: 2.3, 2.4)

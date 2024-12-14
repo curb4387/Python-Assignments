@@ -25,3 +25,5 @@ Total owed: 33.0
 Determine what causes this error and fix it.
 
 ## Instructions
+
+**Task 1**: Modify **salestax.py** to correct the error.

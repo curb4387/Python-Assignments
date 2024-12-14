@@ -4,4 +4,4 @@ For this exercise, write a program that contains an introductory docstring. This
 
 ## Instructions
 
-Light travels at 3 \* 10⁸ meters per second. A light-year is the distance a light beam travels in one year.
+**Task 1**: Write a program in the file **sphere.py** that takes the radius of a sphere (a floating-point number) as input and then outputs the sphere’s diameter, circumference, surface area, and volume. (LO: 2.3, 2.4, 2.5)

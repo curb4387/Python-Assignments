@@ -4,4 +4,6 @@ For this exercise, write a program that contains an introductory docstring. This
 
 ## Instructions
 
-The kinetic energy of a moving object is given by the formula _KE = (1/2) mv²_, where _m_ is the object’s mass and _v_ is its velocity.
+You can calculate the surface area of a cube if you know the length of an edge.
+
+**Task 1**: Write a program in **cube.py** that takes the length of an edge (an integer) as input and prints the cube’s surface area as output. (LO: 2.4)

@@ -1,1 +1,0 @@
-**Task 1**: Modify the program you created in <!-- TK:  -->Programming Exercise 5 so that it prints the object’s kinetic energy as well as its momentum. (LO: 2.3, 2.4)

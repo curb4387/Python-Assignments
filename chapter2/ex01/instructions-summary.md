@@ -4,8 +4,6 @@ For this exercise, write a program that contains an introductory docstring. This
 
 ## Instructions
 
-For this exercise, use the following approximations:
+The tax calculator program of the case study outputs a floating-point number that might show more than two digits of precision.
 
-- A kilometer represents 1/10,000 of the distance between the North Pole and the equator.
-- There are 90 degrees, containing 60 minutes of arc each, between the North Pole and the equator.
-- A nautical mile is 1 minute of an arc. (LO: 2.4)
+**Task 1**: Use the round function to modify the program in the file **taxform.py** to display at most two digits of precision in the output number. (LO: 2.4)

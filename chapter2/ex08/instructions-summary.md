@@ -4,4 +4,6 @@ For this exercise, write a program that contains an introductory docstring. This
 
 ## Instructions
 
-Five Star Retro Video rents DVDs to the same connoisseurs who like to buy vinyl records. The store rents new videos for $3.00 a night, and oldies for $2.00 a night.
+Light travels at 3 \* 10⁸ meters per second. A light-year is the distance a light beam travels in one year.
+
+**Task 1**: Write a program in the file **lightyear.py** that expects a number of years as input and calculates and displays the value of the distance traveled in meters. (LO: 2.4)

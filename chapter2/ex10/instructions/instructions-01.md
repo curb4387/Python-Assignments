@@ -1,1 +1,0 @@
-**Task 1**: Write a program in the file **employeepay.py** that takes as inputs the hourly wage, total regular hours, and total overtime hours and displays an employee’s total weekly pay. (LO: 2.3, 2.4)
