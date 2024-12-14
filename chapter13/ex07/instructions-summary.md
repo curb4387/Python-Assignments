@@ -13,3 +13,5 @@ Profile the performance of the memoized version of the Fibonacci function define
 -->
 
 ## Instructions
+
+**Task 1**: The function should count the number of recursive calls.

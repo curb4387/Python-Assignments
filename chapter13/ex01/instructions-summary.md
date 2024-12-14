@@ -5,3 +5,5 @@ modified version of the `sequentialSearch` function that uses this algorithm (in
 (LO: 13.2, 13.3)
 
 ## Instructions
+
+**Task 1**: Define a modified version of the `sequentialSearch` function that halts when the target is less than a given element in the list.

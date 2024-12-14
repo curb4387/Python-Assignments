@@ -22,3 +22,5 @@ Define a recursive function `expo` (in the file **expo.py**) that uses this stra
 -->
 
 ## Instructions
+
+**Task 1**: Define a recursive function `expo` that uses the recursive strategy.

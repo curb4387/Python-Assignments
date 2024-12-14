@@ -19,3 +19,5 @@ def makeRandomList(size):
 You may assume that `range`, `randint`, and append are constant time functions. You may also assume that `random.randint` more rarely returns duplicate numbers as the range between its arguments increases. State the computational complexity of this function using big-O notation and justify your answer. (LO: 13.2, 13.6)
 
 ## Instructions
+
+**Task 1**: State the computational complexity of the `makeRandomList` function using big-O notation and justify your answer.

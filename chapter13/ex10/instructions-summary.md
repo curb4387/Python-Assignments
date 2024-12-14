@@ -24,3 +24,5 @@ def cCurve(t, x1, y1, x2, y2, level):
 You can assume that the function `drawLine` runs in constant time. State the computational complexity of the `cCurve` function, in terms of the level, using big-O notation. Also, draw a call tree for a call of this function with a level of 3. (LO: 13.2, 13. 6))
 
 ## Instructions
+
+**Task 1**: State the computational complexity of the `cCurve` function, in terms of the level, using big-O notation.
