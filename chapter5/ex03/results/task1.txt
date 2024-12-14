@@ -1,0 +1,24 @@
+
+Status: PASSED!
+Check: 1
+Test: Calling getWords with articles.txt return correct tuple.
+Reason: None
+Timestamp: 2024-12-10 23:54:56.084654
+
+Status: PASSED!
+Check: 2
+Test: Calling getWords with nouns.txt return correct tuple.
+Reason: None
+Timestamp: 2024-12-10 23:54:56.084850
+
+Status: PASSED!
+Check: 3
+Test: Calling getWords with verbs.txt return correct tuple.
+Reason: None
+Timestamp: 2024-12-10 23:54:56.084969
+
+Status: PASSED!
+Check: 4
+Test: Calling getWords with nouns.txt return correct tuple.
+Reason: None
+Timestamp: 2024-12-10 23:54:56.085078

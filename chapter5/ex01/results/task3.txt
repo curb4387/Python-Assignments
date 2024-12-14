@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The median of [1,50,1000] is 50
+Reason: None
+Timestamp: 2024-10-13 18:44:07.493881
+
+Status: PASSED!
+Check: 2
+Test: The median of [44,23,77,23] is 33.5
+Reason: None
+Timestamp: 2024-10-13 18:44:07.493984

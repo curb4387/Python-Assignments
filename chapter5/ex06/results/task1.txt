@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: decimalToRep of 10 in base 2 is 1010
+Reason: None
+Timestamp: 2024-10-27 21:45:26.361400
+
+Status: PASSED!
+Check: 2
+Test: decimalToRep of 10 in base 10 is 10
+Reason: None
+Timestamp: 2024-10-27 21:45:26.361575
