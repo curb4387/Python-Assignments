@@ -15,3 +15,5 @@ print("The average test score is", average)
 This program contains errors. Determine what type of error this is, describe how it is detected, and correct it.
 
 ## Instructions
+
+**Task 1**: Modify **computeAverage.py** to correct the error.

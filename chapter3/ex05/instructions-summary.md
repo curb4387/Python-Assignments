@@ -7,3 +7,16 @@ For example, one might start with a population of 500 organisms, a growth rate o
 Write a program in the file **population.py** that takes these inputs and displays a prediction of the total population. (LO: 3.1)
 
 ## Instructions
+
+**Task 1**: Write a program in the file **population.py** that takes these inputs and displays a prediction of the total population.
+
+An example of the program is shown below:
+
+```txt
+Enter the initial number of organisms: 10
+Enter the rate of growth [a real number > 1]: 2
+Enter the number of hours to achieve the rate of growth: 2
+Enter the total hours of growth: 6
+
+The total population is 80
+```
