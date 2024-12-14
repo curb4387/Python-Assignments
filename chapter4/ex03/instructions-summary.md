@@ -9,3 +9,5 @@ The program should expect three input arguments (in order):
 3. Step Distance
 
 ## Instructions
+
+**Task 1**: Modify encrypt and decrypt scripts to encrypt and decrypt entire files of text.
