@@ -44,3 +44,5 @@ if __name__ == "__main__":
 Determine why this error occurs and correct it. Jack reminds Jill that the GIF format supports at most 256 unique colors.
 
 ## Instructions
+
+**Task 1**: Modify the **chessboard.py** program to remove the error.

@@ -7,3 +7,5 @@ the corresponding fields occupy the second row. At start-up, the Fahrenheit fiel
 compute the Celsius value, which should then be output to the Celsius field. The second button should perform the inverse function. (LO: 9.2, 9.3, 9.4, 9.5, 9.6)
 
 ## Instructions
+
+**Task 1**: Write the **temperatureconverter.py** GUI program.

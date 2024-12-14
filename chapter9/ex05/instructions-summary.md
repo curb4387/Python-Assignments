@@ -6,3 +6,5 @@ Write a GUI-based program in the file **guesswithgui.py** that plays a guess-the
 the game, the computer guesses a number between 1 and 100 and the user provides the responses. The window should display the computer’s guesses with a label. The user enters a hint in response, by selecting one of a set of command buttons labeled Too small, Too large, and Correct. When the game is over, you should disable these buttons and wait for the user to click New game, as before. (LO: 9.2, 9.3, 9.4, 9.5, 9.6, 9.7)
 
 ## Instructions
+
+**Task 1:** Write the **guesswithgui.py** GUI program.
