@@ -15,3 +15,5 @@ This exercise assumes that you have completed _Programming Exercise 1_. Complete
 -->
 
 ## Instructions
+
+**Task 1**: Complete the implementation of the `StudentView` class.

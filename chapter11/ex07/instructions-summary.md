@@ -15,3 +15,5 @@ This exercise assumes that you have completed _Programming Exercise 6_. Add radi
 -->
 
 ## Instructions
+
+**Task 1**: Add radio buttons for the remaining columns of data to the program window.
