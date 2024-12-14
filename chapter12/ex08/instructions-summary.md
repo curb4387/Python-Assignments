@@ -25,3 +25,5 @@ Hint: Complete the `ThreadSafeSavingsAccount` class (in the file **threadsafesav
 -->
 
 ## Instructions
+
+**Task 1**: Add synchronization to the ATM program.

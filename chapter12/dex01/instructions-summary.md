@@ -40,3 +40,5 @@ server.connect(ADDRESS) # Connect it to a host
 Determine why the error occurs in Jill’s program and correct it.
 
 ## Instructions
+
+**Task 1**: Modify the **server.py** program to correct the error.

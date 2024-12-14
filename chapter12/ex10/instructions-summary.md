@@ -25,3 +25,5 @@ The `SharedCell` class includes the usual `read` and `write` methods for a reade
 > The client code will now be able to establish a connection to the server.
 
 ## Instructions
+
+**Task 1**: Consolidate duplicate `add` methods (`SharedTranscript` and `Transcript`) into the `SharedCell` class.

@@ -26,3 +26,5 @@ Consumer is done consuming
 ```
 
 ## Instructions
+
+**Task 1:** Consolidate duplicate `read` and `write` methods into the `SharedCell` class. Derive and implement the necessary read and write methods for the `PCSharedCell` and `RWSharedCell` classes from the `SharedCell`.

@@ -17,3 +17,5 @@ Add exception handling code to the server logic in **stimeclient.py** to catch a
 > The client code will now be able to establish a connection to the server.
 
 In order to test your error handling logic, run `python3 timeclient.py` into the terminal without starting the timesever. If you have already started the timeserver, use `CTL+C` to terminate the process or close the terminal window which is running the timeserver.
+
+**Task 1**: Add exception handling code to the server logic in **timeclient.py** to catch and recover from this kind of exception. To recover from this exception, simply print the message **Error connecting to the server** and terminate the program.

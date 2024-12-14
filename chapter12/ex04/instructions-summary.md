@@ -20,3 +20,5 @@ Otherwise, the patient is visiting the doctor for the first time, so the client 
 > The client code will now be able to establish a connection to the server.
 
 ## Instructions
+
+**Task 1**: Modify the doctor application discussed in this chapter so that it tracks clients by name and history.

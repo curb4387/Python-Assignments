@@ -39,3 +39,5 @@ Do not be concerned about synchronization problems in this project.
 -->
 
 ## Instructions
+
+**Task 1**: Convert the ATM application presented in _Chapter 10_ to a networked application.
