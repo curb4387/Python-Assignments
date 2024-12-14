@@ -1,0 +1,48 @@
+
+Status: PASSED!
+Check: 1
+Test: Outputs correct values when input is 3
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.530906
+
+Status: PASSED!
+Check: 2
+Test: Outputs correct values when input is 3
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.546519
+
+Status: PASSED!
+Check: 3
+Test: Outputs correct values when input is 3
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.561966
+
+Status: PASSED!
+Check: 4
+Test: Outputs correct values when input is 3
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.577346
+
+Status: PASSED!
+Check: 5
+Test: Outputs correct values when input is 67
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.592932
+
+Status: PASSED!
+Check: 6
+Test: Outputs correct values when input is 67
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.608435
+
+Status: PASSED!
+Check: 7
+Test: Outputs correct values when input is 67
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.623886
+
+Status: PASSED!
+Check: 8
+Test: Outputs correct values when input is 67
+Reason: Output included correct valuesNone
+Timestamp: 2024-09-22 15:57:04.639369
