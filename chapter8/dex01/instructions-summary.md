@@ -52,3 +52,5 @@ When Jill runs the program, she enters her inputs and views the image before itâ
 Determine why this error occurs and correct it. Jack reminds Jill that the GIF format supports at most 256 unique colors.
 
 ## Instructions
+
+**Task 1**: Modify the **randomart.py** program to remove the `TclError`.

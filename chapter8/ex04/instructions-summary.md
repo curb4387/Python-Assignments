@@ -15,3 +15,5 @@ The twentieth-century Dutch artist Piet Mondrian developed a style of abstract p
 As you can see, the algorithm continues the process of subdivision until an “aesthetically right moment” is reached. In this version, the algorithm divides the current rectangle into portions representing one-third and two-thirds of its area and alternates these subdivisions along the horizontal and vertical axes. Design, implement, and test a script (in the file **mondrian.py**) that uses a recursive function to draw these patterns
 
 ## Instructions
+
+**Task 1**: Design, implement, and test the **mondrian.py** script that uses a recursive function to draw the patterns.

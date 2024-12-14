@@ -19,3 +19,5 @@ Develop three algorithms for lightening, darkening, and color filtering as three
 ```
 
 ## Instructions
+
+**Task 1**: Develop the `lighten`, `darken`, and `colorFilter` functions.
