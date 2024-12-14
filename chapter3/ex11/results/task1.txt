@@ -1,0 +1,17 @@
+
+Status: PASSED!
+Check: 1
+Test: The program indicates when the user has lost the game.
+Reason: None
+Timestamp: 2024-09-29 23:17:51.895996
+
+Status: PASSED!
+Check: 2
+Test: The program indicates when the user has lost the game.
+Reason: None
+Timestamp: 2024-09-29 23:17:51.913585
+
+Status: PASSED!
+Check: 3
+Test: The program has elements of randomness.None
+Timestamp: 2024-09-29 23:17:51.962627
